@@ -9,4 +9,5 @@ division. Allow the user to input two numbers and choose an
 operation to perform.
 Task 3 is  word count program:A program that counts the number of words in a given
 text file. Prompt the user to enter the file name and display the
-total word count.![image](https://github.com/SMARTHMALIK/Codsoft/assets/104513607/67f31325-7436-4f5a-bd91-a71bd242ca29)
+total word count.
+![image](https://github.com/SMARTHMALIK/Codsoft/assets/104513607/67f31325-7436-4f5a-bd91-a71bd242ca29)
